@@ -2,7 +2,7 @@
 
 Project Description
 
-The NGO Donation Management System is a web-based application designed to simplify and manage the process of donations across multiple NGOs. The system provides a centralized platform where users can explore various NGOs, contribute donations, and track their donation activities.
+The Multi Ngo Donation System is a web-based application designed to simplify and manage the process of donations across multiple NGOs. The system provides a centralized platform where users can explore various NGOs, contribute donations, and track their donation activities.
 A key feature of the system is the admin verification process, where NGOs must be approved before becoming visible to users. The administrator has the authority to approve or reject NGO registration requests, ensuring authenticity and preventing fraudulent organizations from being listed.
 This system improves transparency, trust, and efficiency in the donation process by maintaining proper records and enabling secure management of NGO data and user contributions.
 
